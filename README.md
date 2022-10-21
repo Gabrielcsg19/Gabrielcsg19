@@ -1,5 +1,5 @@
 ## Hi, I’m Gabriel Souza :smiley:
-I'm a web development who loves Javascript and its ecosystem. Student at [Rocketseat](https://rocketseat.com.br/) :rocket:
+I'm a fullstack developer who loves Javascript and its ecosystem. Student at [Rocketseat](https://rocketseat.com.br/) :rocket:
 
 ### **My current development stack is:**
 
