@@ -1,4 +1,4 @@
-## Hi, I’m Gabriel Souza :smiley:
+## Hi! I’m Gabriel Souza :smiley:
 I'm a fullstack developer who loves Javascript and its ecosystem.
 
 ### **My current development stack is:**
