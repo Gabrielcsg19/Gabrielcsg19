@@ -1,9 +1,9 @@
-## Hi! I’m Gabriel Souza :smiley:
-I'm a fullstack developer who loves Javascript and its ecosystem.
+## Olá! Sou o Gabriel Souza 😎
+Desenvolvedor fullstack com foco no ecossistema do Javascript. Já trabalhei com aplicações web e mobile com React e React Native e REST API's com Laravel e Node.js. No momento atuo no back-end usando Node.js em aplicações ETL.
 
-### **My current development stack is:**
+### **Tecnologias com as quais tenho experiência profissional**
 
-Front-end | Back-end | Database / ORM | Mobile | Languages | Services / Tools
+Front-end | Back-end | Banco de dados / ORM | Mobile | Linguagens | Serviços / Ferramentas
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)                                             | [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  | [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)                      | [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/) | [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)                                                 | [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)                        | [![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)                              | [![Expo](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=black)](https://expo.dev/)                          | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) | [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
@@ -16,5 +16,5 @@ Front-end | Back-end | Database / ORM | Mobile | Languages | Services / Tools
 | | | | | | [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 | | | | | | [![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 
-### Follow me on my professional social network
+### Me siga na minha rede profissional
 > [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabrielsouza-developer)
