@@ -1,7 +1,7 @@
 ## Olá! Sou o Gabriel Souza 😎
 Tenho mais de 3 anos de experiência como desenvolvedor fullstack com foco no ecossistema do Javascript. Já trabalhei com aplicações web e mobile com React e React Native e REST API's com Laravel e Node.js. No momento atuo no back-end usando Node.js em aplicações ETL.
 
-### **Tecnologias com as quais tenho experiência profissional**
+### **Principais tecnologias com as quais tenho experiência profissional**
 
 Front-end | Back-end | Banco de dados / ORM | Mobile | Linguagens | Serviços / Ferramentas
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
